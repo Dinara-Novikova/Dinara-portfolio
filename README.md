@@ -86,6 +86,7 @@
 ## Контактная информация
 
 email: dinarilla@yandex.ru
+
 страница в ВК: https://vk.com/id220485257
 
 
